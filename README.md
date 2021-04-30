@@ -16,12 +16,12 @@ I have advance knowledge of Javascript. Besides, I have experience in React.js, 
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Numan ahmed GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=numanahmed1&show_icons=true&hide_border=true" />
+ <summary>:zap: GitHub Stats</summary>
 
-</details>
+ <img align="left" alt="Numan ahmed GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=numanahmed1&show_icons=true&hide_border=true" />
+
+
 
 [website]: https://numan-ahmed.web.app/
 [twitter]: https://twitter.com/numanahmed0
