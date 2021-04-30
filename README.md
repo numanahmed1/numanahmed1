@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**numanahmed1/numanahmed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a professional Web Developer with have 3 years hands of experience in the web design and development field. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
