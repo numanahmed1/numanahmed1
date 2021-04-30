@@ -15,12 +15,17 @@ I have advance knowledge of Javascript. Besides, I have experience in React.js, 
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+<br />
 
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="Numan ahmed GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=numanahmed1&show_icons=true&hide_border=true" />
 
- <summary>:zap: GitHub Stats</summary>
+<br />
+<br />
+<br />
 
- <img align="left" alt="Numan ahmed GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=numanahmed1&show_icons=true&hide_border=true" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numanahmed1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://numan-ahmed.web.app/
