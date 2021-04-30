@@ -21,7 +21,9 @@ I have advance knowledge of Javascript. Besides, I have experience in React.js, 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Numan ahmed GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=numanahmed1&show_icons=true&hide_border=true" />
 
-### Most used language
+<br />
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numanahmed1&layout=compact)](https://github.com/numanahmed1/github-readme-stats)
 
