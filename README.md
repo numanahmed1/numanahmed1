@@ -1,4 +1,6 @@
 Hi there,
+<br />
+
 I am a professional Web Developer with have 3 years hands of experience in the web design and development field.
 
 I am a professional web developer with 3 years of experience in the web design and development field. Making unhappy client to happy is my passion and completing work before the deadline is mine goal.
@@ -14,6 +16,12 @@ I have advance knowledge of Javascript. Besides, I have experience in React.js, 
 
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Numan ahmed GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=numanahmed1&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: /
 [twitter]: https://twitter.com/numanahmed0
