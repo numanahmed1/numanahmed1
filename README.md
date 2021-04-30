@@ -15,14 +15,11 @@ I have advance knowledge of Javascript. Besides, I have experience in React.js, 
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
 
 ### Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numanahmed1&layout=compact)](https://github.com/numanahmed1/github-readme-stats)
 
-<br />
-<br />
 <br />
 
 <summary>:zap: GitHub Stats</summary>
