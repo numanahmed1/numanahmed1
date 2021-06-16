@@ -1,5 +1,4 @@
-Hi there,
-<br />
+Hi there, I'm Numan Ahmed.
 
 I am a professional Web Developer with have 2 years hands of experience in the web design and development field. Making unhappy client to happy is my passion and completing work before the deadline is mine goal.
 
