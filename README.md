@@ -19,6 +19,8 @@ I have advance knowledge of Javascript. Besides, I have experience in <b>React.j
 
 <br />
 
+![Numan's GitHub stats](https://github-readme-stats.vercel.app/api?username=numanahmed1&show_icons=true&theme=radical)
+
 
 
 
