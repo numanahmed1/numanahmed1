@@ -15,7 +15,7 @@ I have advance knowledge of Javascript. Besides, I have experience in <b>React.j
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numanahmed1&layout=compact)](https://github.com/numanahmed1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numanahmed1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
