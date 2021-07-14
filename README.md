@@ -1,4 +1,4 @@
-Hi there, I'm Numan Ahmed.
+Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Numan Ahmed.
 
 I am a professional Web Developer with have 2 years hands of experience in the web design and development field. Making unhappy client to happy is my passion and completing work before the deadline is mine goal.
 
