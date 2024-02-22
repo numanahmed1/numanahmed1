@@ -1,8 +1,8 @@
 Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Numan Ahmed.
 
-I am a professional Web Developer with have 4 years hands of experience in the web design and development field. Making unhappy client to happy is my passion and completing work before the deadline is mine goal.
+I am a professional Web Developer with 5 years hands of experience in the web design and development field. Making unhappy clients happy is my passion and completing work before the deadline is my goal.
 
-I have advance knowledge of Javascript. Besides, I have experience in <b>React.js, Node.js, Express.js, MongoDB, MySQL, WordPress and also in PHP</b>.
+I have advanced knowledge of Javascript. Besides, I have experience in <b>React.js, Node.js, Express.js, MongoDB, MySQL, WordPress, and also in PHP</b>.
 
 ### Connect with me:
 
@@ -27,6 +27,6 @@ I have advance knowledge of Javascript. Besides, I have experience in <b>React.j
 
 [website]: https://numan-ahmed.web.app/
 [twitter]: https://twitter.com/numanahmed0
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/@learncodewithnuman
 [instagram]: https://www.instagram.com/numan_sabith/
 [linkedin]: https://www.linkedin.com/in/numanahmed1/
