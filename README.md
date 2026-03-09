@@ -51,8 +51,11 @@ I'm a **WordPress & Full Stack Developer** with over **6 years of professional e
 
 <div align="center">
 
-![Numan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=numanahmed1&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numanahmed1&layout=compact&theme=github_dark&hide_border=true)
+![Numan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=numanahmed1&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numanahmed1&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=numanahmed1&theme=github-dark&hide_border=true)
 
 </div>
 
