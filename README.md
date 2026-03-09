@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **WordPress & Full Stack Developer** with over **6 years of professional experience** building high-performance, visually compelling websites and web applications. I specialize in creating **SEO-friendly**, **pixel-perfect** designs that drive real results — elevating user experience and search engine visibility simultaneously.
+I'm a **WordPress & Full Stack Developer** with over **6 years of professional experience** building high-performance, visually compelling websites and web applications. I specialize in creating **SEO-friendly**, **pixel-perfect** designs that drive real results - elevating user experience and search engine visibility simultaneously.
 
 ---
 
@@ -25,23 +25,24 @@ I'm a **WordPress & Full Stack Developer** with over **6 years of professional e
 
 **WordPress Ecosystem**
 > Elementor · Oxygen Builder · Bricks Builder · DIVI · Beaver Builder  
-> Theme & Plugin Development · Theme Customization · OxyMade · ACSS · Bricksforge · Core Framework
+> Theme & Plugin Development · Theme Customization · Gatsby
 
 **Full Stack (MERN)**
-> MongoDB · Express.js · React · Node.js · Next.js · Gatsby
+> MongoDB · Express.js · React · Node.js · Next.js
 
 **Languages & Styling**
-> JavaScript · TypeScript · PHP · HTML5 · CSS3 · MySQL · jQuery  
-> Bootstrap · Tailwind CSS
+> JavaScript · TypeScript · PHP · HTML5 · CSS3 · MySQL 
+> jQuery · Tailwind CSS · Bootstrap
 
 ---
 
 ## 🚀 What I Do
 
-- 🎨 Build **custom WordPress themes and plugins** tailored to your business needs
-- ⚡ Develop **fast, scalable MERN stack applications** from concept to deployment
+- 🧱 Build **custom WordPress sites** using Bricks Builder, Elementor, Oxygen, DIVI & Beaver Builder
+- 🎨 Develop **custom themes and plugins** tailored to your exact business needs
 - 🔍 Implement **on-page SEO best practices** for maximum search engine visibility
-- 📐 Deliver **pixel-perfect UI** across all devices and screen sizes
+- 📐 Deliver **pixel-perfect, fully responsive UI** across all devices and screen sizes
+- ⚡ Develop **fast, scalable MERN stack applications** from concept to deployment
 - 🧩 Architect **headless WordPress** solutions using Gatsby or Next.js
 
 ---
@@ -60,6 +61,6 @@ I'm a **WordPress & Full Stack Developer** with over **6 years of professional e
 <div align="center">
 
 *Open to freelance projects and collaboration opportunities.*  
-**Let's build something great together →** [numan-ahmed.web.app](https://numan-ahmed.web.app/)
+**Let's build something great together →** [webx23.com](https://webx23.com/)
 
 </div>
