@@ -24,7 +24,7 @@ I'm a **WordPress & Full Stack Developer** with over **6 years of professional e
 ## 🛠️ Tech Stack
 
 **WordPress Ecosystem**
-> Elementor · Oxygen Builder · Bricks Builder · DIVI · Beaver Builder  
+> Bricks Builder · Elementor · Oxygen Builder · DIVI · Beaver Builder  
 > Theme & Plugin Development · Theme Customization · Gatsby
 
 **Full Stack (MERN)**
